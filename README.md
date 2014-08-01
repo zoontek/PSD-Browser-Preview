@@ -30,7 +30,7 @@ gulp
 
 ## But wait, there's more
 
-Convert to **.png** file (instead of a **.jpg**, it's a lot slower).
+Convert to **.png** file (instead of a **.jpg**, it's slower).
 
 ```
 gulp --png
