@@ -1,6 +1,6 @@
 ## PSD Browser Preview
 
-Display and reload your Photoshop mockups in your browsers (desktop, mobile, others). An image worth a thousand words:
+Display and reload your Photoshop mockups in your browsers (desktop, mobile, others).
 
 ## Requirements
 
@@ -22,7 +22,7 @@ Run a **npm install** to install project dependencies.
 npm install
 ```
 
-Start watching your files.
+Start watching your files using the gulp default task.
 
 ```
 gulp
