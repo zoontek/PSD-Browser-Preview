@@ -1,0 +1,18 @@
+doctype html
+html
+  head
+    meta(name='charset', content='utf-8')
+    title PSDpreview
+    style.
+      body {
+        margin: 0;
+        background: #{color};
+      }
+      img {
+        display: block;
+        margin: #{align};
+        max-width: 100%;
+        height: auto;
+      }
+  body
+    img(src="#{img}")
