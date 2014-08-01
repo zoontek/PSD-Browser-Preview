@@ -57,4 +57,4 @@ gulp --right
 
 ## Help me, I'm using Windows
 
-No problem. Open **gulpfile.js** and replace "*exec: 'convert'*" with the full path to ImageMagick **convert.exe**. That's it!
+Open **gulpfile.js** and replace "*exec: 'convert'*" with the full path to ImageMagick **convert.exe**. That's it!
