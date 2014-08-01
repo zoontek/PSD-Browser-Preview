@@ -36,7 +36,7 @@ Convert to **.png** file (instead of a **.jpg**, it's slower).
 gulp --png
 ```
 
-Watch one file at the time (add the possibility to launch 1 server/file).
+Watch one file at the time (add the possibility to launch 1 server per psd).
 
 ```
 gulp --input home.psd
