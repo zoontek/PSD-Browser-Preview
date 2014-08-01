@@ -41,7 +41,7 @@ gulp --png
 Watch one file at the time (add the possibility to launch 1 server per .psd).
 
 ```
-gulp --input home.psd
+gulp --input your_file_name.psd
 ```
 
 Add a **background-color**.
