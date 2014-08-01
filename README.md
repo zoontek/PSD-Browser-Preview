@@ -48,7 +48,7 @@ Add a **background-color**.
 gulp --color #00ff00
 ```
 
-Change your mockup alignement (default is centered).
+Change your mockup alignement (default is center).
 
 ```
 gulp --left
