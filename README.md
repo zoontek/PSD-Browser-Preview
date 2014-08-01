@@ -48,7 +48,7 @@ Add a **background-color**.
 gulp --color #00ff00
 ```
 
-Change the image alignement.
+Change your mockup alignement.
 
 ```
 gulp --left
