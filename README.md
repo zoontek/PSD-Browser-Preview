@@ -2,8 +2,6 @@
 
 Display and reload your Photoshop mockups in your browsers (desktop, mobile, others).
 
-![](https://dl.dropboxusercontent.com/u/4181800/psd_browser.gif)
-
 ## Requirements
 
 - [Node.js](http://nodejs.org/)
